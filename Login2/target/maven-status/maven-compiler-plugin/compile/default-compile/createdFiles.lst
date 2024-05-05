@@ -1,0 +1,9 @@
+utils\Conexion.class
+controlador\RegistroServlet.class
+com\mycompany\login\JakartaRestConfiguration.class
+controlador\AgregarPersonaServlet.class
+modelo\PersonaDao.class
+modelo\LoginDao.class
+com\mycompany\login\resources\JakartaEE10Resource.class
+controlador\ValidadorServlet.class
+modelo\RegistroDao.class
